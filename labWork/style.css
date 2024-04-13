@@ -1,0 +1,18 @@
+h1{
+    background-color: #FFC470;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.nav{
+    margin-top: 0;
+    display: flex;
+    background-color: antiquewhite;
+}
+.nav a{
+    margin: 10px;
+}
+.book{
+    height: 400px;
+    width: auto;
+    margin-left: 400px;
+}
